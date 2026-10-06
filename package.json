@@ -1,0 +1,24 @@
+{
+  "name": "yk-site-checker",
+  "version": "1.0.0",
+  "description": "Functional tests for yk-site, written from SPEC.md only",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyklol/yk-site-checker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyklol/yk-site-checker/issues"
+  },
+  "homepage": "https://github.com/tyklol/yk-site-checker#readme",
+  "private": true,
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4"
+  }
+}
